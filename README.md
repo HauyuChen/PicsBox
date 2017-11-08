@@ -1,2 +1,2 @@
 # PicsBox
- Markdown 图床
+这是图床。
